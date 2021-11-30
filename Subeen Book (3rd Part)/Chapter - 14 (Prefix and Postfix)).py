@@ -4,7 +4,7 @@
 
 # Books code:
 # Prefix expression.
-'''
+
 def operation_(operand_1,operand_2,operator):
     if operator == "+":
         return int(operand_1) + int(operand_2)
@@ -33,7 +33,7 @@ def prefix(operation):
 operation = "3","2","-"
 print(prefix(operation))
 
-'''
+
 # Prefix expression:
 # My code:
 '''
